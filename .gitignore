@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# VS / C# build output
+Skeleton/bin/
+Skeleton/obj/
+Skeleton/*/bin/
+Skeleton/*/obj/
+Skeleton/.vs/
+*.user
+*.suo
+
+# NuGet (keep packages folder tracked for submission)
+# Skeleton/packages/
+
+# PHP
+*.log
